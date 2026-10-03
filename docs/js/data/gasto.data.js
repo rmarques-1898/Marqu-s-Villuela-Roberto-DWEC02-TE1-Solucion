@@ -30,4 +30,3 @@ objetoGastos.forEach(element => {
      });
 
 export const GASTOS_DB = listaGastos;
-console.log(GASTOS_DB);
